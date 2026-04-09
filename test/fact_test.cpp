@@ -2,6 +2,6 @@
 #include "fact.h"
 
 int main() {
-    std::cout << fact(12) << std::endl;
+    std::cout << Factorial(12) << std::endl;
     return 0;
 }

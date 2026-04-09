@@ -1,8 +1,8 @@
 #include "fact.h"
 
-int fact(int x) {
+int Factorial(int x) {
     if (x <= 1) {
         return 1;
     }
-    return fact(x-1)+fact(x-2);
+    return Factorial(x-1)+Factorial(x-2);
 }

@@ -1,1 +1,1 @@
-int fact(int x);
+int Factorial(int x);
