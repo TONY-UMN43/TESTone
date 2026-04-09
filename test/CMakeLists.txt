@@ -5,7 +5,7 @@ include_directories(${CMAKE_SOURCE_DIR}/src)
 
 
 set(SRC_FILES
-	fact_test.cpp
+	main.cpp
 )
 
 add_executable (workshop_tests ${SRC_FILES})
