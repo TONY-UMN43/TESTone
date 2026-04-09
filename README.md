@@ -1,5 +1,7 @@
 # Workshop 05 - Testing
 
+In this workshop we will be going through the (Google Test Primer)[http://google.github.io/googletest/primer.html].
+
 ## Getting Started
 
 Build the library and executable:
