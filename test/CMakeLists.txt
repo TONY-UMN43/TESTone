@@ -16,5 +16,4 @@ set(SRC_FILES
 
 add_executable (workshop_tests ${SRC_FILES})
 
-#Uncomment when googletest is downloaded and built
 target_link_libraries(workshop_tests workshop gtest_main gtest)
