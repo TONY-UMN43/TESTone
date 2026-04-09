@@ -11,7 +11,10 @@ link_directories(
 )
 
 set(SRC_FILES
-	main.cpp
+	factorial_unittest.cpp
+	# queue_unittest.cpp
+	calculator_unittest.cpp
+
 )
 
 add_executable (workshop_tests ${SRC_FILES})

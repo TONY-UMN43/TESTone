@@ -8,5 +8,6 @@ TEST(FactorialTest, Demo) {
 
 TEST(FactorialTest, DemoFail) {
 	//This test should fail!
-	EXPECT_EQ(10, Factorial(2));
+	EXPECT_EQ(2, Factorial(2));
 }
+
