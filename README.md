@@ -1,6 +1,6 @@
 # Workshop 05 - Testing
 
-In this workshop we will be going through the (Google Test Primer)[http://google.github.io/googletest/primer.html].
+In this workshop we will be going through the [Google Test Primer](http://google.github.io/googletest/primer.html).
 
 ## Getting Started
 
